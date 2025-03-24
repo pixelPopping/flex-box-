@@ -13,7 +13,6 @@ body {
     display: flex;
     flex: 1;
     flex-direction: row;
-    row-gap: 1rem;
 }
 
 .fave-con{
